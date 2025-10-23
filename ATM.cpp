@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
 
-class ATM
-using namespace std;
-
 class BankAccount {
 protected:
     int balance;
