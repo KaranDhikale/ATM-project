@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class ATM#include <iostream>
+class ATM
 using namespace std;
 
 class BankAccount {
